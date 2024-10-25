@@ -26,10 +26,10 @@ pip install pandas
 
 ### Usage
 
-Clone the repository or download the script file to your local machine.
-Run the script using Python:
+- Clone the repository or download the script file to your local machine.
+- Run the script using Python:
 
 ```bash
 python user_management.py
 ```
-Follow the prompts in the console to add or display users.
+- Follow the prompts in the console to add or display users.
